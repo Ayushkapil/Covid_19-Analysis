@@ -4,7 +4,7 @@ This project focuses on importing and analyzing vaccination data using Python li
 
 
 
-<h1>Troubleshooting<h1>
+<h1>Troubleshooting</h1>
   
 If you encounter any issues while running the project, try the following steps:
 
